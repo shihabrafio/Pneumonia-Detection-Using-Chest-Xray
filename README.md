@@ -4,4 +4,3 @@
 - Dataset has been implemented into two types('Pneumonia', 'Normal').
 - Total number of images were 1488 that has been used in this project.
 - Sequential and AlexNet were used for model training on this project.
-- Export documents as Markdown, HTML and PDF
